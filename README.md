@@ -13,4 +13,6 @@ This code isnt cleaned up to perfection as there are still some pieces of commen
 - Quandl
 
 # Extra
-This code should be cleaned up soon as there are things that can be modified or it being automated more efficiently.
+- This code should be cleaned up soon as there are things that can be modified or it being automated more efficiently.
+- The reason why there is still a pip install in the code is that Google's datalab does not remember packages that I would state as "out of the norm" such as Quandl which is why it is left in the code.
+- You will have to sign up for the dataset via Quandl as my API key isnt 'key'
